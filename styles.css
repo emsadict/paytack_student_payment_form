@@ -1,0 +1,32 @@
+/* Navbar styles */
+.navbar-brand {
+    font-size: 1.5rem; /* Increase font size for the logo */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* Increase font size for menu items */
+}
+
+/* Card styles */
+.card {
+    margin-bottom: 20px; /* Add some spacing between cards */
+}
+
+.card-title {
+    font-size: 1.2rem; /* Increase font size for card titles */
+}
+
+.card-text {
+    font-size: 1rem; /* Set font size for card content */
+}
+
+/* Carousel styles */
+.carousel-item img {
+    width: 100%; /* Make carousel images responsive */
+    height: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%; /* Adjust carousel control button size */
+}
